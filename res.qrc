@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>monkey.png</file>
+        <file>banana.png</file>
+        <file>bg2.jpg</file>
+        <file>banana2.png</file>
+        <file>banana3.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>catch.mp3</file>
+        <file>moveleft.mp3</file>
+        <file>moveright.mp3</file>
+        <file>fainted.mp3</file>
+        <file>bgsound.mp3</file>
+        <file>catch.wav</file>
+        <file>moveleft.wav</file>
+        <file>moveright.wav</file>
+        <file>redbananasound.mp3</file>
+    </qresource>
+</RCC>

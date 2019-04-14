@@ -1,0 +1,20 @@
+﻿  Generate moc_predefs.h
+  Rcc'ing res.qrc...
+  Moc'ing bad_banana.h...
+  Moc'ing banana.h...
+  Moc'ing banana_faster.h...
+  Moc'ing player.h...
+  bad_banana.cpp
+  banana.cpp
+  banana_faster.cpp
+  game.cpp
+  health.cpp
+  main.cpp
+  player.cpp
+  score.cpp
+  qrc_res.cpp
+  moc_bad_banana.cpp
+  moc_banana.cpp
+  moc_banana_faster.cpp
+  moc_player.cpp
+  tut.vcxproj -> D:\norbert backup\b\programowanie\tut\debug\tut.exe
